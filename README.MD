@@ -14,8 +14,6 @@
 
 3. 使用时注意路径，我是放在Blog文件夹下面，请统一修改import的路径，确保正确。
 
-   <img src="C:\Users\44825\AppData\Roaming\Typora\typora-user-images\image-20200207142518235.png" alt="image-20200207142518235" style="zoom:67%;" />
-
 4. 项目的结构是：功能层层叠加，wholesrc文件是完整代码。
 
 # 1. 后台登录

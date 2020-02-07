@@ -127,7 +127,7 @@ category函数用于显示类别页面，add用于引导修改页面：
 
 点击博文列表，可以查看博文列表。
 
-<img src="C:\Users\44825\AppData\Roaming\Typora\typora-user-images\image-20200207141225752.png" alt="image-20200207141225752" style="zoom:50%;" />
+<img src="https://uk-1259555870.cos.eu-frankfurt.myqcloud.com/image-20200207141225752.png" style="zoom:50%;" />
 
 ## 4.2 实现过程
 
@@ -143,10 +143,10 @@ category函数用于显示类别页面，add用于引导修改页面：
 
 这一步是对前面博文列表的补充，实现博文的添加、修改和删除功能。
 
-<img src="C:\Users\44825\AppData\Roaming\Typora\typora-user-images\image-20200207141506393.png" alt="image-20200207141506393" style="zoom:50%;" />
+<img src="https://uk-1259555870.cos.eu-frankfurt.myqcloud.com/image-20200207141506393.png" style="zoom:50%;" />
 
 ## 5.2 实现过程
 
 博文列表的难点在于页面的逻辑，而修改这一部分不涉及这些，和类别的修改一样，非常简单。需要在admin.go控制器中添加如下函数即可：
 
-<img src="C:\Users\44825\AppData\Roaming\Typora\typora-user-images\image-20200207141617615.png" alt="image-20200207141617615" style="zoom: 67%;" />
+<img src="https://uk-1259555870.cos.eu-frankfurt.myqcloud.com/image-20200207141617615.png"/>
